@@ -1,3 +1,27 @@
-body {
-    background-color: salmon;
+.lesson#personal {
+    background-color: lemonchiffon;
+}
+
+.title#contact {
+    color: darkblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue;
+}
+
+#portfolio {
+    background-color: darkorange;
+}
+
+img {
+    height: 200px;
 }
